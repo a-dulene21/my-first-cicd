@@ -1,7 +1,7 @@
 
 from operator import add
 
-from app import greet, greetapp
+from app import greet
 
 def test_add():
     assert add(2, 3) == 5
